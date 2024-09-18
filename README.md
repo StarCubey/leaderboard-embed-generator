@@ -1,7 +1,5 @@
-# Tauri + Solid + Typescript
+# Leaderbaord embed generator!!!
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
+Hi! This is a leaderboard embed generator for creating cool looking embeds from leaderboards made using my rating calcualtor. The rating calculator can be found here: https://starcubey.github.io/whr-rating-calculator/
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+This was mainly made for Bonk MMR: https://www.bonkmmr.com/
